@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pipoteca</string>
+    <string name="action_settings">Configurações</string>
+    <string name="favorits">Favoritos</string>
+    <string name="language">pt-BR</string>
+    <string name="movies">Filmes</string>
+    <string name="alert">Atenção</string>
+    <string name="movie_details">Detalhes do filme</string>
+    <string name="movie_removed">Filme removido.</string>
+    <string name="movie_success">Filme adicionado com sucesso!</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="you_not_connected">Você não está conectado!</string>
+    <string name="you_sure_to_remove">Tem certeza que deseja remover este filme da sua lista?</string>
+</resources>
