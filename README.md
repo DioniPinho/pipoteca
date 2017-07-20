@@ -6,13 +6,10 @@ APP to list movies and create a favorite list.
 
 The technologies used in this project were:
 
-**TMDB API**
-
-**Glide 4.0**
-
-**Realm 3.5**
-
-**Retrofit 2.3**
+**TMDB API**  
+**Glide 4.0**  
+**Realm 3.5**  
+**Retrofit 2.3**  
 
 
 <img src="https://user-images.githubusercontent.com/7769947/28282502-0175a3d6-6b01-11e7-9b51-4b6f8afe60fd.gif" width="300">   | 
